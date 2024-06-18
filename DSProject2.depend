@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1708023808 source:c:\users\aio\desktop\data structure project\dsproject2\main.cpp
+	<iostream>
+	"Teller.h"
+	"Customer.h"
+	"Bank.h"
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+
+1708015875 c:\users\aio\desktop\data structure project\dsproject2\include\teller.h
+
+1708017514 c:\users\aio\desktop\data structure project\dsproject2\include\customer.h
+
+1708038854 c:\users\aio\desktop\data structure project\dsproject2\include\bank.h
+	<queue>
+
+1708211070 source:c:\users\aio\desktop\data structure project\dsproject2 - copy\main.cpp
+	<iostream>
+	"Teller.h"
+	"Customer.h"
+	"Bank.h"
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+
+1708214679 c:\users\aio\desktop\data structure project\dsproject2 - copy\include\teller.h
+
+1708017514 c:\users\aio\desktop\data structure project\dsproject2 - copy\include\customer.h
+
+1708269743 c:\users\aio\desktop\data structure project\dsproject2 - copy\include\bank.h
+	<queue>
+
+1708211070 source:c:\users\aio\desktop\data structure project\dsproject3\main.cpp
+	<iostream>
+	"Teller.h"
+	"Customer.h"
+	"Bank.h"
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+
+1708214679 c:\users\aio\desktop\data structure project\dsproject3\include\teller.h
+
+1708017514 c:\users\aio\desktop\data structure project\dsproject3\include\customer.h
+
+1708269743 c:\users\aio\desktop\data structure project\dsproject3\include\bank.h
+	<queue>
+
+1708211070 source:c:\users\aio\desktop\data structure project\dsproject5\main.cpp
+	<iostream>
+	"Teller.h"
+	"Customer.h"
+	"Bank.h"
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+
+1708214679 c:\users\aio\desktop\data structure project\dsproject5\include\teller.h
+
+1708017514 c:\users\aio\desktop\data structure project\dsproject5\include\customer.h
+
+1708293326 c:\users\aio\desktop\data structure project\dsproject5\include\bank.h
+	<queue>
+
+1708294742 source:c:\users\aio\desktop\data structure project\dsproject6\main.cpp
+	<iostream>
+	"Teller.h"
+	"Customer.h"
+	"Bank.h"
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+
+1708295297 c:\users\aio\desktop\data structure project\dsproject6\include\teller.h
+
+1708295297 c:\users\aio\desktop\data structure project\dsproject6\include\customer.h
+
+1708295814 c:\users\aio\desktop\data structure project\dsproject6\include\bank.h
+	<queue>
+
+1708294742 source:c:\users\aio\desktop\data structure project\final\main.cpp
+	<iostream>
+	"Teller.h"
+	"Customer.h"
+	"Bank.h"
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+
+1708295297 c:\users\aio\desktop\data structure project\final\include\teller.h
+
+1708295297 c:\users\aio\desktop\data structure project\final\include\customer.h
+
+1708295814 c:\users\aio\desktop\data structure project\final\include\bank.h
+	<queue>
+
+1708294742 source:c:\users\aio\desktop\data structure project\final +vip\main.cpp
+	<iostream>
+	"Teller.h"
+	"Customer.h"
+	"Bank.h"
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+
+1708567676 c:\users\aio\desktop\data structure project\final +vip\include\teller.h
+
+1708567541 c:\users\aio\desktop\data structure project\final +vip\include\customer.h
+
+1708567931 c:\users\aio\desktop\data structure project\final +vip\include\bank.h
+	<queue>
+
+1708638667 source:c:\users\aio\desktop\data structure project\finaldone\main.cpp
+	<iostream>
+	"Teller.h"
+	"Customer.h"
+	"Bank.h"
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+
+1708567961 c:\users\aio\desktop\data structure project\finaldone\include\teller.h
+
+1708567541 c:\users\aio\desktop\data structure project\finaldone\include\customer.h
+
+1708649575 c:\users\aio\desktop\data structure project\finaldone\include\bank.h
+	<queue>
+
+1708638667 source:c:\users\aio\desktop\thefinaloffinals\main.cpp
+	<iostream>
+	"Teller.h"
+	"Customer.h"
+	"Bank.h"
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+
+1708567961 c:\users\aio\desktop\thefinaloffinals\include\teller.h
+
+1708567541 c:\users\aio\desktop\thefinaloffinals\include\customer.h
+
+1708683228 c:\users\aio\desktop\thefinaloffinals\include\bank.h
+	<queue>
+
